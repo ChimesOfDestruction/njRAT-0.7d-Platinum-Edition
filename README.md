@@ -2,7 +2,7 @@
   
 ### Update: Added Screamer  
   
-![fullscreames](https://user-images.githubusercontent.com/127018596/223538112-27d34e56-0f69-4a07-b169-84e40014a839.gif)
+![newscreamer](https://user-images.githubusercontent.com/127018596/223542054-72ba547c-57da-4adc-bf1e-ea73fed2f11f.gif)
   
 ## Features  
 ### Builder 🛠️  
