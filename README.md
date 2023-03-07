@@ -1,5 +1,7 @@
 # njRAT-0.7d-Platinum-Edition
   
+### Update: Added Screamer  
+  
 ![fullscreames](https://user-images.githubusercontent.com/127018596/223538112-27d34e56-0f69-4a07-b169-84e40014a839.gif)
   
 ## Features  
