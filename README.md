@@ -25,7 +25,6 @@
 ### Microphone 🎙️  
 ### Passwords 🔑  
 ### Fun 😈  
-### Screamer 👹  
 ##### - Power Options  
 ##### - Messagebox  
 ##### - Hide & Show Taskbar/Icons  
@@ -41,6 +40,7 @@
 ##### - Eject CD  
 ##### - Close CD  
 ##### - Overwrite MBR  
+### Screamer 👹  
 ### Lock 🔒  
 ##### - Lock  
 ##### - Unlock  
