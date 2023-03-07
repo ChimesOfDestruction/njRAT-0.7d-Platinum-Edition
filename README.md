@@ -1,6 +1,6 @@
 # njRAT-0.7d-Platinum-Edition
-
-![PremiumRelease](https://user-images.githubusercontent.com/127018596/223008183-b0f4f86e-2969-425b-8a44-26adde9eb90b.gif)
+  
+![fullscreames](https://user-images.githubusercontent.com/127018596/223538112-27d34e56-0f69-4a07-b169-84e40014a839.gif)
   
 ## Features  
 ### Builder 🛠️  
@@ -25,6 +25,7 @@
 ### Microphone 🎙️  
 ### Passwords 🔑  
 ### Fun 😈  
+### Screamer 👹  
 ##### - Power Options  
 ##### - Messagebox  
 ##### - Hide & Show Taskbar/Icons  
