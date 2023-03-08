@@ -2,7 +2,7 @@
   
 ### Keep coming back to my github, i'm releasing improvement daily ;)  
   
-### Update: No Dropping EXE for Screenlocker  
+### Update: No Dropping Anti ANYRUN  
   
 ![newscreamer](https://user-images.githubusercontent.com/127018596/223542054-72ba547c-57da-4adc-bf1e-ea73fed2f11f.gif)
   
