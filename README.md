@@ -4,7 +4,8 @@
   
 ### Update: No Dropping Anti ANYRUN  
   
-![newscreamer](https://user-images.githubusercontent.com/127018596/223542054-72ba547c-57da-4adc-bf1e-ea73fed2f11f.gif)
+![platinumrat123](https://user-images.githubusercontent.com/127018596/223767259-5d4e9eb7-0f39-4457-a07d-2bb74ad60b91.gif)
+
   
 ## Features  
 ### Builder 🛠️  
