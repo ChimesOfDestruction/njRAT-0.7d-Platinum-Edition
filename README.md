@@ -55,6 +55,10 @@
 ### Lock 🔒  
 ##### - Lock  
 ##### - Unlock  
+### UAC Bypass 🔺  
+##### - Eventvwr (Win7)  
+##### - RunAs (Not Bypass)
+##### - Check if Admin
 ### Malware Killer 🛡️
 ### Scheduled Tasks ⏱️  
 ##### - Add Scheduled Task  
