@@ -2,7 +2,7 @@
   
 ### Keep coming back to my github, i'm releasing improvement daily ;)  
   
-### Update:  Pick .NET Compiler Version  
+### Update: Nice About Form & Save Builder Config  
   
 ![terror](https://user-images.githubusercontent.com/127018596/223801751-34a4fdd7-1eb6-4bab-88d8-c06288f8dafd.gif)
 
