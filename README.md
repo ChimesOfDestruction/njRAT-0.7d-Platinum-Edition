@@ -42,8 +42,8 @@
 ##### - Mirror Screen  
 ##### - Zoom Out  
 ##### - Screw Mouse  
-##### - Eject CD  
-##### - Close CD  
+##### - Eject/Close CD Tray  
+##### - Turn Monitor Off/On  
 ##### - Overwrite MBR  
 ### Screamer 👹  
 ### Lock 🔒  
