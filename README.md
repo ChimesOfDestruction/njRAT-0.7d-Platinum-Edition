@@ -1,5 +1,6 @@
-# njRAT-0.7d-Platinum-Edition
+# njRAT 0.7d Platinum Edition
   
+  #####  Want source code? Get it here: https://github.com/ChimesOfDestruction/SRC-njRAT-0.7d-Platinum-Edition
 ### Latest Updates:  
 * Add optional Sound Effect for Screamer
 * Improve Screamer (Make on-top)
